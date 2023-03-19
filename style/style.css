@@ -1,0 +1,16 @@
+.team-area{
+    gap:1rem;
+    flex-wrap: inherit;
+}
+
+.card-header{
+    background-color: rgb(51, 185, 238);
+}
+
+.team-heading{
+    background-color: rgb(243, 62, 62);
+}
+
+.card{
+    width: 250px;
+}
