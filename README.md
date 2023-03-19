@@ -21,11 +21,11 @@
   
   ## Installation
   
-  This application doest't need installation.Only run the command `npm idex.js` in the terminal.
+  This application doest't need installation.Only run the command `node idex.js` in the terminal.
   
   ## Usage
   
-  In order to use the application you need to navigate to the root folder of the application and run the command `npm index.js`. After that the application will display a series of question about the employees.When you finish adding the details of the employee you can select finish from the option list and the html file will be created automatically. 
+  In order to use the application you need to navigate to the root folder of the application and run the command `node index.js`. After that the application will display a series of question about the employees.When you finish adding the details of the employee you can select finish from the option list and the html file will be created automatically. 
   
   ## License
   
