@@ -1,9 +1,8 @@
-const Manager = require("./lib/Manager");
-const Employee= require("./lib/Employee");
-const Engineer = require("./lib/Engineer");
-const Intern = require("./lib/Intern");
+const Manager = require("./lib/Manager.cjs");
+const Employee= require("./lib/Employee.cjs");
+const Engineer = require("./lib/Engineer.cjs");
+const Intern = require("./lib/Intern.cjs");
 const inquirer = require("inquirer");
-import inquirer from "inquirer";
 const path = require("path");
 const fs = require("fs");
 
@@ -26,7 +25,7 @@ inquirer.prompt([{
             message: "What is the team manager`s employee ID?",
         },
         {
-            type: "list",
+            type: "input",
             name: "email",
             message: "What is the team manager`s email address?",
     
