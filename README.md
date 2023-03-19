@@ -21,7 +21,7 @@
   
   ## Installation
   
-  This application doest`t need installation.Only run the command `npm idex.js` in the terminal.
+  This application doest't need installation.Only run the command `npm idex.js` in the terminal.
   
   ## Usage
   
@@ -45,7 +45,7 @@
 
   ## Link 
 
-     GitHub   https://github.com/neftonjin/team-profile-generator
+       https://github.com/neftonjin/team-profile-generator
  
   ## Preview 
 
